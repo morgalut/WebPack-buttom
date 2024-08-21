@@ -17,5 +17,5 @@ Follow these steps to set up and run the project on your local machine.
 1. **Clone the Repository**
 
    ```bash
-   git clone <your-repository-url>
-   cd <your-project-directory>
+   git clone [<your-repository-url>](https://github.com/morgalut/WebPack-buttom.git)
+   cd my-webpack-react-app
